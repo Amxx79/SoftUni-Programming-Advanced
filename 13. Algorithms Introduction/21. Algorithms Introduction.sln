@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Recursive Array Sum", "01. Recursive Array Sum\01. Recursive Array Sum.csproj", "{4E89E24C-1A26-4F76-8856-B025F0AB0059}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Recursive Factiorial", "02. Recursive Factiorial\02. Recursive Factiorial.csproj", "{C3FAD41C-7645-4F74-81C5-4C28DDC3A747}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Sum Of Coins - Greedy Algorithms", "03. Sum Of Coins - Greedy Algorithms\03. Sum Of Coins - Greedy Algorithms.csproj", "{E45F619C-A040-46A2-B145-E55987487CA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Set Cover", "04. Set Cover\04. Set Cover.csproj", "{D9096934-E957-4794-AD66-06A845F3B550}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E89E24C-1A26-4F76-8856-B025F0AB0059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E89E24C-1A26-4F76-8856-B025F0AB0059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E89E24C-1A26-4F76-8856-B025F0AB0059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E89E24C-1A26-4F76-8856-B025F0AB0059}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3FAD41C-7645-4F74-81C5-4C28DDC3A747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3FAD41C-7645-4F74-81C5-4C28DDC3A747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3FAD41C-7645-4F74-81C5-4C28DDC3A747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3FAD41C-7645-4F74-81C5-4C28DDC3A747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E45F619C-A040-46A2-B145-E55987487CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E45F619C-A040-46A2-B145-E55987487CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E45F619C-A040-46A2-B145-E55987487CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E45F619C-A040-46A2-B145-E55987487CA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9096934-E957-4794-AD66-06A845F3B550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9096934-E957-4794-AD66-06A845F3B550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9096934-E957-4794-AD66-06A845F3B550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9096934-E957-4794-AD66-06A845F3B550}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0F58BF4-1FF0-4C80-B379-29DCB86DE210}
+	EndGlobalSection
+EndGlobal
